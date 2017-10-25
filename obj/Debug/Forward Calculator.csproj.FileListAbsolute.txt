@@ -1,0 +1,46 @@
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\bin\Debug\Forward Calculator.exe.config
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\bin\Debug\Forward Calculator.exe
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\bin\Debug\Forward Calculator.pdb
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.csprojResolveAssemblyReference.cache
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.Calculator.resources
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.Connection.resources
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.DividendForecaster.resources
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.DividendTable.resources
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.InputBox.resources
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.MainForm.resources
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.Stock.resources
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.StockViewer.resources
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.csproj.GenerateResource.Cache
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.exe
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.pdb
+\\TITAN2\WrightWilliam$\My Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.ForwardCalculator.resources
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\bin\Debug\Forward Calculator.exe.config
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\bin\Debug\Forward Calculator.exe
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\bin\Debug\Forward Calculator.pdb
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.Calculator.resources
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.DividendForecaster.resources
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.DividendTable.resources
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.ForwardCalculator.resources
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.InputBox.resources
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.MainForm.resources
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.StockViewer.resources
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.csproj.GenerateResource.Cache
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.exe
+C:\Users\Will 2nd\Documents\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.pdb
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\bin\Debug\Forward Calculator.exe.config
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\bin\Debug\Forward Calculator.exe
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\bin\Debug\Forward Calculator.pdb
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.Calculator.resources
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.DividendForecaster.resources
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.DividendTable.resources
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.ForwardCalculator.resources
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.InputBox.resources
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.MainForm.resources
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward_Calculator.StockViewer.resources
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.csproj.GenerateResource.Cache
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.exe
+C:\Users\Will\Desktop\coding\SharpDevelop Projects\Forward Calculator\obj\Debug\Forward Calculator.pdb

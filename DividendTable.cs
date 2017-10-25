@@ -30,7 +30,7 @@ namespace Forward_Calculator {
 				//MainForm.Instance.dividends = _dividends;
 			}
 			catch(Exception exc) {
-				//MessageBox.Show(exc.Message);
+				//MessageBox.Show(exc.Message);   used for bug fixing
 			};
 		}
 	}

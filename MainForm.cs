@@ -62,34 +62,12 @@ namespace Forward_Calculator {
 		void Init() {
 			Instance = this;
 			this.BackColor = Colours.background;
-			interestRegion = FileHandling.LoadRegions()[0];
-//			
-//			online = connection_Viewer.TestConnection();
-//			
-//			//setting colours
-//			this.BackColor = Colours.background;
-//			txt_NewStockName.BackColor = Colours.foreground;
-//			txt_NewStockName.ForeColor = Colours.primaryText;
-//			btn_Save.BackColor = Colours.foreground;
-//			btn_Save.ForeColor = Colours.primaryText;
-//			
-//			
-//			
-//			stocks = FileHandling.Loadstocks(Application.StartupPath);  //loading stocks
 			regions = FileHandling.LoadRegions(); //loading regions
-//			
-//			//filling stock list
-//			StockList _stockViewer = new StockList(stocks);
-//			_stockViewer.Dock = DockStyle.Fill;
-//			pnl_StockList.Controls.Clear();
-//			pnl_StockList.Controls.Add(_stockViewer);
-//			pnl_StockList.BackColor = Colours.background;
-//			(pnl_StockList.Controls[0].Controls[0] as ImprovedListBox).Items.AddRange(StockList.GetNames(stocks));
-//			
-//			calculator_Forward.UpdateRegions(regions); //showing regions in box
+			interestRegion = regions[0];
 		}
 		
 		
+		//redundant functions when I overhauled gui but kept incase code was useful somewhere else
 		private void UpdateViewer() {
 //			online = connection_Viewer.TestConnection();
 //			stock_Viewer.UpdateLabels(stocks[index]);

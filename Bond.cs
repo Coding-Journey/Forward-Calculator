@@ -8,7 +8,7 @@ namespace Forward_Calculator {
 		public int duration;
 		public float interestRate;
 		
-		///constrctor for bond
+		///constructor for bond
 		public Bond(int _duration, float _interestRate) {
 			duration = _duration;
 			interestRate = _interestRate;
